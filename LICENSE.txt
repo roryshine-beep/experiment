@@ -1,0 +1,6 @@
+These textures are cropped from Kenney's "RPG pack" (https://kenney.nl/assets/rpg-pack),
+released under CC0 1.0 Universal (public domain). No attribution required, but credit
+is appreciated: Kenney (www.kenney.nl).
+
+Obtained via the CC0-licensed mirror https://github.com/iwenzhou/kenney
+(Art (5190 files)/RPG pack (230 assets)/Spritesheet/RPGpack_sheet.png).
